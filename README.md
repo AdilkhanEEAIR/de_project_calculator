@@ -5,6 +5,8 @@
 - Usenkanov Ularbek
 - Sakybaev Meder
 
+  ### Note: If the application says that there are no 'Multiplie' or 'Multiplie10' files, then you should download them also from github repository and select them when the logisim program will propose
+
 ## 📌 Project Overview
 This project is an **8-bit digital calculator** designed in **Logisim Evolution**.  
 It simulates arithmetic operations using basic digital logic components such as adders, subtractors, multipliers, and display decoders.
@@ -28,7 +30,7 @@ The calculator performs operations on 8-bit binary numbers and displays the resu
 
 
 ### ➕ Addition Components
-- **FullAdder** – 1-bit full adder (A, B, Carry-in → Sum, Carry-out)
+- **FullAdder** – 1-bit full adder (A, B, Carry-in -> sum, carry-out)
 
 
   <img width="775" height="296" alt="image" src="https://github.com/user-attachments/assets/665744ef-ca6c-4d7b-a9fc-3a29fabd9b61" />
