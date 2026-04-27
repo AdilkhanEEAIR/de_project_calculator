@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview
 This project is an **8-bit digital calculator** designed in **Logisim Evolution**.  
-It simulates arithmetic operations using basic digital logic components such as adders, subtractors, multipliers, and display decoders.
+It simulates arithmetic operations using basic digital logic components such as adders, subtractors, multipliers, dividers, and display decoders.
 
 The calculator performs operations on 8-bit binary numbers and displays the result on 7-segment displays.
 
@@ -21,12 +21,14 @@ The calculator performs operations on 8-bit binary numbers and displays the resu
 - Binary to BCD conversion
 - Output using 7-segment displays
 - Built using digital logic (no programming languages)
+- Iterative subtraction
 
 ---
 
 ## 🧩 Components Description
 
-<img width="224" height="402" alt="image" src="https://github.com/user-attachments/assets/af89b82b-a62f-4294-a91e-ca30137db989" />
+<img width="268" height="587" alt="image" src="https://github.com/user-attachments/assets/e95d80df-3e51-40aa-8756-d02907b07e6a" />
+
 
 
 ### ➕ Addition Components
@@ -54,6 +56,16 @@ The calculator performs operations on 8-bit binary numbers and displays the resu
 - **Multiplie10** – multiplication module (likely optimized for specific logic)
 
   <img width="1416" height="1331" alt="image" src="https://github.com/user-attachments/assets/35312aaa-e96f-4c51-acdb-e599321d14a1" />
+
+
+### ➗ Division
+- **DivSimplified** - it's division simplified module, but main function in **DivComponent**
+
+
+  <img width="742" height="1356" alt="image" src="https://github.com/user-attachments/assets/bc42baca-04f3-40ff-95a5-698a34c1b4f8" />
+
+  <img width="1032" height="423" alt="image" src="https://github.com/user-attachments/assets/ae8e04f8-ad42-4b4f-902f-b00c4be3b64d" />
+
 
 
 ---
