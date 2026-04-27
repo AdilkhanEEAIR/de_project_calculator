@@ -5,7 +5,7 @@
 - Usenkanov Ularbek
 - Sakybaev Meder
 
-  ### Note: If the application says that there are no 'Multiplie' or 'Multiplie10' files, then you should download them also from github repository and select them when the logisim program will propose
+  ### Note: If the application says that there are no 'Multiplie', 'Multiplie10' or 'Divider' files, then you should download them also from github repository and select them when the logisim program will propose
 
 ## 📌 Project Overview
 This project is an **8-bit digital calculator** designed in **Logisim Evolution**.  
