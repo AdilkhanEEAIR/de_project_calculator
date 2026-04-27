@@ -67,9 +67,8 @@
       <a name="font" val="SansSerif plain 12"/>
     </tool>
   </lib>
-  <lib desc="file#..\Divider.circ" name="9"/>
-  <lib desc="file#Multiplie (2).circ" name="10"/>
-  <lib desc="file#Multiplie10 (2).circ" name="11"/>
+  <lib desc="file#Multiplie (2).circ" name="9"/>
+  <lib desc="file#Multiplie10 (2).circ" name="10"/>
   <main name="CALCULATOR"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
